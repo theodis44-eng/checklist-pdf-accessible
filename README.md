@@ -40,3 +40,10 @@ Il fait les huit contrôles de la première liste. Il ne remplace pas la seconde
 Critère 13.3 du RGAA, exemption des fichiers publiés avant le 23 septembre 2018 : <https://claren.fr/blog/pdf-accessible-mairie/>
 
 Licence : CC BY 4.0. Auteur : Théodis Guyon, Claren.
+
+## Voir aussi sur claren.fr
+
+- [Formations à l'accessibilité numérique pour les agents](https://claren.fr/formation/) : trois formations par rôle, aides FIPHFP
+- [Claren Documents, gratuit](https://claren.fr/documents/) : documents et PDF accessibles, test gratuit d'un PDF
+- [Baromètre 2026 de l'accessibilité des sites de communes](https://claren.fr/barometre/)
+- [Palmarès 2026 : le Top 100 des plus grandes villes](https://claren.fr/barometre/palmares/)
