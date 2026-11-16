@@ -29,14 +29,14 @@ vérifier de ce qui demande un humain.
 
 ## Corriger à la source
 Un PDF hérite de la structure du fichier qui l'a produit : styles de titre dans Word ou LibreOffice, vraies listes,
-tableaux avec ligne d'en-tête, puis export avec les balises. Méthode détaillée : https://claren.fr/blog/rendre-pdf-accessible/
-La checklist de la DINUM pour un PDF issu d'un traitement de texte : https://design.numerique.gouv.fr/outils/checklist-pdf
+tableaux avec ligne d'en-tête, puis export avec les balises. Méthode détaillée : <https://claren.fr/blog/rendre-pdf-accessible/>
+La checklist de la DINUM pour un PDF issu d'un traitement de texte : <https://design.numerique.gouv.fr/outils/checklist-pdf>
 
 ## Tester un PDF
-Test gratuit en ligne (un document par jour, fichier analysé puis oublié) : https://claren.fr/outils/tester-accessibilite-pdf/
+Test gratuit en ligne (un document par jour, fichier analysé puis oublié) : <https://claren.fr/outils/tester-accessibilite-pdf/>
 Il fait les huit contrôles de la première liste. Il ne remplace pas la seconde.
 
 ## Pour une commune
-Critère 13.3 du RGAA, exemption des fichiers publiés avant le 23 septembre 2018 : https://claren.fr/blog/pdf-accessible-mairie/
+Critère 13.3 du RGAA, exemption des fichiers publiés avant le 23 septembre 2018 : <https://claren.fr/blog/pdf-accessible-mairie/>
 
 Licence : CC BY 4.0. Auteur : Théodis Guyon, Claren.
